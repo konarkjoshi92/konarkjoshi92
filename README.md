@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Konark Joshi
+#### I am 
+![I am ](https://i.ibb.co/gRWygZt/konark.jpg)
 
-<!--
-**konarkjoshi92/konarkjoshi92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm a part-time coder and full-time adventure seeker.
 
-Here are some ideas to get you started:
+Skills: Flutter // Dart// html // vs code// firebase// hive// river pod //
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on flutter projects. 
+- 📫 How to reach me: konarkjoshi11@gmail.com 
+
+
+
+
