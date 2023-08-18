@@ -4,9 +4,9 @@
 
 Welcome to my profile! I'm a part-time coder and full-time adventure seeker.
 
-Skills: Flutter // Dart// html // vs code// firebase// hive// river pod //
+Skills: Flutter // Dart// html // vs code// firebase// hive// river pod // react js//
 
-- 🔭 I’m currently working on flutter projects. 
+- 🔭 I’m currently searching  for flutter projects. 
 - 📫 How to reach me: konarkjoshi11@gmail.com 
 
 
